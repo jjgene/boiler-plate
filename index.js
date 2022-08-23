@@ -15,7 +15,7 @@ mongoose.connect('mongodb+srv://johnahn:abcd1234@boilerplate.j4lecpn.mongodb.net
         .catch(err=>console.log(err))
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello World!ㅎㅎㅎ')
 })
 
 
